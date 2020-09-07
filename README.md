@@ -1,8 +1,4 @@
-# qss_backend_assignment
-
-Backend API .
-
-## Install
+# loopback contactapp
 
 ### Clone the repository
 
